@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic|Odibee+Sans&display=swap');
+
+.biru{
+    color: blue;
+}
+
+
+    
+.box-heading {
+    height: 100px;
+    background-color: #00ab14;
+    width: 100%;
+    margin-top: 50px;
+}
+.text-heading-gojek {
+    color: cornsilk;
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'Odibee Sans', cursive;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.button-purwadhika {
+    color: white;
+    font-size: 13px;
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 500ms;
+    background-color: #53b59f;
+}
+.button-purwadhika:hover{
+    background-color: white;
+    color:#53b59f;
+    border: 1px #53b59f solid;
+    transition: 500ms;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: row;
+}
+.container-flex div {
+    flex: 1;
+
+}
