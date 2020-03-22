@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "fikri@fikri.com",
+      "password": "123123",
+      "role": "penjual",
+      "fullname": "Muslim Ramli",
+      "address": "Jawa Barat",
+      "phone_number": "085277194064",
+      "name": "Pisang Medan",
+      "price": "40000",
+      "stock": "28",
+      "deskripsi": "Warna kuning",
+      "img_url": "data:image/jpeg;base64,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"
+    },
+    {
+      "email": "fikri@fikriya.com",
+      "password": "123",
+      "role": "penjual",
+      "fullname": "Fikri Fikriya",
+      "address": "Kota Bandung",
+      "phone_number": "0948575393",
+      "id": 2
+    },
+    {
+      "email": "muslim@muslim.com",
+      "password": "123",
+      "role": "penjual",
+      "fullname": "Muslim Ramli",
+      "address": "Maulana Yusuf",
+      "phone_number": "085277194064",
+      "id": 3,
+      "name": "apel Malang",
+      "price": "30000",
+      "stock": "2",
+      "deskripsi": "enak banget",
+      "img_url": "https://www.parentingclub.co.id/uploads/default/files/article/578/eksperimen-menyegarkan-apel_578_Eksperimen_Menyegarkan_Apel_261-Eksperimen-Menyegarkan-Apel-th.jpg"
+    },
+    {
+      "email": "afgan@afgan.com",
+      "password": "123",
+      "role": "penjual",
+      "fullname": "Afgan Taufik Hidayat",
+      "address": "Medan",
+      "phone_number": "03948430030",
+      "id": 4
+    },
+    {
+      "email": "giran@giran.com",
+      "password": "123",
+      "role": "pembeli",
+      "fullname": "Giran Ganteng",
+      "address": "shgsl@gjga.com",
+      "phone_number": "084749494",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Apel Fuji Jepang",
+      "price": "2000",
+      "stock": "22",
+      "img_url": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/11/5/373801195/373801195_36697d13-fce2-49a1-a26a-19cc570a377d_554_554.jpg",
+      "id_penjual": 1,
+      "deskripsi": "Apel Import Berkualitas bagus"
+    },
+    {
+      "id": 2,
+      "name": "Jeruk Bali",
+      "price": "15000",
+      "stock": "20",
+      "img_url": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/11/7/37620200/37620200_6a68dfc7-8564-4893-bcdc-9772908a713f_900_900",
+      "id_penjual": 1,
+      "deskripsi": "Jeruk Bali Berkualitas"
+    },
+    {
+      "id": 3,
+      "name": "Mangga Manis",
+      "price": "23000",
+      "stock": "23",
+      "img_url": "https://s0.bukalapak.com/img/5021243332/w-1000/bibit_buah_mangga_harum_manis.png",
+      "id_penjual": 2,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 5,
+      "name": "Jeruk Medan",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/10/2/1491479/1491479_cb28990b-45d6-4794-9b8c-46c32bdc2dc3",
+      "id_penjual": 4,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 6,
+      "name": "Pisang Ambon",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://marketeers.com/wp-content/uploads/2017/07/Banana3-1020x765.jpg",
+      "id_penjual": 4,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 7,
+      "name": "Buah Naga",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://static.republika.co.id/uploads/images/inpicture_slide/buah-naga-merupakan-komoditas-buah-yang-berpotensi-ekspor_200312120044-952.jpg",
+      "id_penjual": 4,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 8,
+      "name": "Buah Bit",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://www.ibudanbalita.com/uploads/posts/D79nzIIVw0.jpg",
+      "id_penjual": 4,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 9,
+      "name": "Kakao",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://www.pertanianku.com/wp-content/uploads/2016/11/Panduan-Praktis-Memanen-Buah-Kakao-dengan-Benar.jpg",
+      "id_penjual": 2,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 10,
+      "name": "Buah Plum",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://awsimages.detik.net.id/community/media/visual/2019/08/19/213343ea-ea20-48b0-9d8f-53b03a3b6b2d.jpeg?w=700&q=90",
+      "id_penjual": 1,
+      "deskripsi": "Manis dan harum"
+    },
+    {
+      "id": 11,
+      "name": "Buah Naga",
+      "price": "32000",
+      "stock": "9",
+      "img_url": "https://static.republika.co.id/uploads/images/inpicture_slide/buah-naga-merupakan-komoditas-buah-yang-berpotensi-ekspor_200312120044-952.jpg",
+      "id_penjual": 3,
+      "deskripsi": "Manis dan harum"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "id_pembeli": "4",
+      "id_penjual": "2",
+      "id_product": 13,
+      "nama_product": "Tomat Ceri",
+      "qty": 3,
+      "harga_product": "25000"
+    },
+    {
+      "id_pembeli": "5",
+      "id_penjual": 1,
+      "id_product": 2,
+      "nama_product": "Jeruk Bali",
+      "harga_product": "15000",
+      "id": 2
+    },
+    {
+      "id_pembeli": "5",
+      "id_penjual": 4,
+      "id_product": 8,
+      "nama_product": "Buah Bit",
+      "harga_product": "32000",
+      "id": 3
+    },
+    {
+      "id_pembeli": "5",
+      "id_penjual": 1,
+      "id_product": 1,
+      "nama_product": "Apel Fuji Jepang",
+      "harga_product": "2000",
+      "id": 4
+    },
+    {
+      "id_pembeli": "5",
+      "id_penjual": 1,
+      "id_product": 1,
+      "nama_product": "Apel Fuji Jepang",
+      "harga_product": "2000",
+      "id": 5
+    }
+  ]
+}

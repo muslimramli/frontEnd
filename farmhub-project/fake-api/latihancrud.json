@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "user": "fikri",
+      "todo": "makan",
+      "id": 5
+    },
+    {
+      "user": "budi",
+      "todo": "jalan",
+      "id": 7
+    },
+    {
+      "user": "budi",
+      "todo": "jalan",
+      "id": 7
+    },
+    {
+      "user": "budi",
+      "todo": "jalan",
+      "id": 7
+    }
+  ]
+}

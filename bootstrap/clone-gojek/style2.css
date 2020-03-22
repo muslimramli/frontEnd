@@ -1,0 +1,35 @@
+.header-1{
+    background-color: gray;
+    height: 100px;
+} 
+
+.hello-kiri {
+    background-color: indianred;
+    text-align: center;
+}
+
+.hello-tengah {
+    background-color: indigo;
+}
+
+.sidebar {
+    background-color: lightblue;
+    height: 500px;
+}
+
+.isi {
+    background-color: pink;
+    height: 500px;
+}
+.container-footer {
+    background-color: green;
+    height: 400px;
+}
+
+.footer-bg {
+    background-color: honeydew;
+    height: 370px;
+    margin-top: 20px;
+    
+    
+}
